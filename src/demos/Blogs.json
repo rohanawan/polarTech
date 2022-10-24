@@ -1,0 +1,317 @@
+[
+    {
+        "id": 112,
+        "date": "2021-04-28T19:48:34",
+        "date_gmt": "2021-04-28T19:48:34",
+        "guid": {
+            "rendered": "https://admin.polartechappliance.ca/?p=112"
+        },
+        "modified": "2021-04-28T19:48:34",
+        "modified_gmt": "2021-04-28T19:48:34",
+        "slug": "reliable-ranges-in-2021",
+        "status": "publish",
+        "type": "post",
+        "link": "https://admin.polartechappliance.ca/reliable-ranges-in-2021/",
+        "title": {
+            "rendered": "Reliable Ranges in 2021"
+        },
+        "content": {
+            "rendered": "\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" width=\"972\" height=\"551\" src=\"https://admin.polartechappliance.ca/wp-content/uploads/2021/04/reliableRange-21-1.jpg\" alt=\"\" class=\"wp-image-113\" srcset=\"https://admin.polartechappliance.ca/wp-content/uploads/2021/04/reliableRange-21-1.jpg 972w, https://admin.polartechappliance.ca/wp-content/uploads/2021/04/reliableRange-21-1-300x170.jpg 300w, https://admin.polartechappliance.ca/wp-content/uploads/2021/04/reliableRange-21-1-768x435.jpg 768w\" sizes=\"(max-width: 972px) 100vw, 972px\" /></figure>\n\n\n\n<figure class=\"wp-block-table\"><table><tbody><tr><td><strong>Brand</strong></td><td>Service Calls %</td></tr><tr><td><strong>Whirlpool</strong></td><td>0.59%</td></tr><tr><td><strong>Samsung</strong></td><td>2.38%</td></tr><tr><td><strong>Bosch</strong></td><td>4.76%</td></tr><tr><td><strong>Beko</strong></td><td>8.25%</td></tr><tr><td><strong>Kitchen Aid</strong></td><td>8.54%</td></tr><tr><td><strong>GE</strong></td><td>7.41%</td></tr><tr><td><strong>Total</strong></td><td>3.06</td></tr></tbody></table></figure>\n\n\n\n<p>The amounted to 37,061 service calls logged in 2020 The average repair rate for electric ranges is 3.06% in the first year.Appliances, in general, are about 9.7%</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Brand Service Calls % Whirlpool 0.59% Samsung 2.38% Bosch 4.76% Beko 8.25% Kitchen Aid 8.54% GE 7.41% Total 3.06 The amounted to 37,061 service calls logged in 2020 The average repair rate for electric ranges is 3.06% in the first year.Appliances, in general, are about 9.7%</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/posts/112"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/comments?post=112"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/posts/112/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 114,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/posts/112/revisions/114"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/media?parent=112"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/categories?post=112"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/tags?post=112"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 110,
+        "date": "2021-04-28T19:44:03",
+        "date_gmt": "2021-04-28T19:44:03",
+        "guid": {
+            "rendered": "https://admin.polartechappliance.ca/?p=110"
+        },
+        "modified": "2021-04-28T19:44:03",
+        "modified_gmt": "2021-04-28T19:44:03",
+        "slug": "maintenance-tips",
+        "status": "publish",
+        "type": "post",
+        "link": "https://admin.polartechappliance.ca/maintenance-tips/",
+        "title": {
+            "rendered": "Maintenance Tips"
+        },
+        "content": {
+            "rendered": "\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" width=\"1024\" height=\"728\" src=\"https://admin.polartechappliance.ca/wp-content/uploads/2021/04/mantainess-1024x728.jpg\" alt=\"\" class=\"wp-image-107\" srcset=\"https://admin.polartechappliance.ca/wp-content/uploads/2021/04/mantainess-1024x728.jpg 1024w, https://admin.polartechappliance.ca/wp-content/uploads/2021/04/mantainess-300x213.jpg 300w, https://admin.polartechappliance.ca/wp-content/uploads/2021/04/mantainess-768x546.jpg 768w, https://admin.polartechappliance.ca/wp-content/uploads/2021/04/mantainess-1536x1092.jpg 1536w, https://admin.polartechappliance.ca/wp-content/uploads/2021/04/mantainess-2048x1456.jpg 2048w, https://admin.polartechappliance.ca/wp-content/uploads/2021/04/mantainess-1568x1115.jpg 1568w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<p>For your washer it is important to clean your drain trap once every 2-3 month. Especially if you hear loud noise, try to do it right away to avoid impeller damage. Washer door boot seal needs to be wiped with dry cloth every time after use to prevent mold contamination.Also leave your washer door half closed to allow ventilation, so for that very reason some door locks have a hook at the end to facilitate that option. If you are using detergent pods instead of liquid, you need to put them inside the drum not inside dispenser.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>For your washer it is important to clean your drain trap once every 2-3 month. Especially if you hear loud noise, try to do it right away to avoid impeller damage. Washer door boot seal needs to be wiped with dry cloth every time after use to prevent mold contamination.Also leave your washer door half&hellip; <a class=\"more-link\" href=\"https://admin.polartechappliance.ca/maintenance-tips/\">Continue reading <span class=\"screen-reader-text\">Maintenance Tips</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/posts/110"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/comments?post=110"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/posts/110/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 111,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/posts/110/revisions/111"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/media?parent=110"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/categories?post=110"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/tags?post=110"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 99,
+        "date": "2021-04-27T19:08:10",
+        "date_gmt": "2021-04-27T19:08:10",
+        "guid": {
+            "rendered": "https://admin.polartechappliance.ca/?p=99"
+        },
+        "modified": "2021-04-28T18:30:07",
+        "modified_gmt": "2021-04-28T18:30:07",
+        "slug": "energy-savings",
+        "status": "publish",
+        "type": "post",
+        "link": "https://admin.polartechappliance.ca/energy-savings/",
+        "title": {
+            "rendered": "Energy Saving"
+        },
+        "content": {
+            "rendered": "\n<p>Some dishwashers have heat dry option by default. You can turn it off to save electricity. Some washing machines have energy savings button that you might never noticed. Refer to your user’s manual to see how it’s going to benefit you.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" width=\"612\" height=\"367\" src=\"https://admin.polartechappliance.ca/wp-content/uploads/2021/04/energySave.jpg\" alt=\"\" class=\"wp-image-100\" srcset=\"https://admin.polartechappliance.ca/wp-content/uploads/2021/04/energySave.jpg 612w, https://admin.polartechappliance.ca/wp-content/uploads/2021/04/energySave-300x180.jpg 300w\" sizes=\"(max-width: 612px) 100vw, 612px\" /><figcaption>Hand turning a thermostat knob to increase savings by decreasing energy consumption. Composite image between a hand photography and a 3D background.</figcaption></figure>\n\n\n\n<p></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Some dishwashers have heat dry option by default. You can turn it off to save electricity. Some washing machines have energy savings button that you might never noticed. Refer to your user’s manual to see how it’s going to benefit you.</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 100,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/posts/99"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/comments?post=99"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 6,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/posts/99/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 109,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/posts/99/revisions/109"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/media/100"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/media?parent=99"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/categories?post=99"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://admin.polartechappliance.ca/wp-json/wp/v2/tags?post=99"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,17 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteRule . /index.html [L]
+</IfModule>
+
+<IfModule mod_headers.c>
+
+  Header set X-XSS-Protection "1; mode=block"
+
+  Header set Content-Security-Policy "default-src 'self' *.youtube.com *.youtube.com *.google.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' *.google-analytics.com *.googleadservices.com * ajax.googleapis.com *.youtube.com *.googletagmanager.com * maxcdn.bootstrapcdn.com; connect-src 'self' * ampcid.google.com * www.google-analytics.com * amp-error-reporting.appspot.com; img-src 'self' * data: *.google-analytics.com * stats.g.doubleclick.net *.google.com *.google.ca * secure.gravatar.com; style-src 'self' 'unsafe-inline' * fonts.googleapis.com * ajax.googleapis.com * maxcdn.bootstrapcdn.com * ajax.googleapis.com; font-src 'self' * data: * fonts.googleapis.com * fonts.gstatic.com * maxcdn.bootstrapcdn.com * themes.googleusercontent.com; frame-src 'self' *.google.com *.googleadservices.com *.youtube.com;"
+
+</IfModule>

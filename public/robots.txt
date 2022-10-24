@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /about#our-Mission
+Allow: /about#maintenance-and-User-Tips
+Allow: /about#partnership
+Allow: /about#location-Rates
+Allow: /about#brands 
+Allow: /services
+Allow: /services/washer-repair-calgary
+Allow: /services/dryer-repair-calgary
+Allow: /services/dishwasher-repair-calgary
+Allow: /services/range-or-oven-repair-calgary
+Allow: /services/refrigerator-repair-calgary
+Allow: /services/microwave-repair-calgary  
+Allow: /estimates
+Allow: /contact
+Allow: /blogs
+Allow: /blog
+Disallow: *.php?
+
+Sitemap: https://www.polartechappliance.ca/sitemap.xml
+
+
+ 
